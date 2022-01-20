@@ -1,2 +1,2 @@
-# customer-segmentation
-Customer Segmentation (Data Visualization)
+# NYC's Airbnb Listings (Data Visualization)
+
