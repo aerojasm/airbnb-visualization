@@ -5,5 +5,5 @@
 * **Visualization:** Tableau Public
 
 <p align="center">
-  <img src="Plots/Output_Dirty_Rides.png">
+  <img src="NYC Dashboard.png">
 </p>
