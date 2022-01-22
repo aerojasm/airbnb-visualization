@@ -3,7 +3,7 @@ By Andrés Rojas
 January, 2022
 
 * **Data Source:** [Airbnb Inside](http://insideairbnb.com/)
-* **Exploration & Cleaning:** Python / Jupyter Notebook
+* **Exploration & Cleaning:** Python / Jupyter Notebook (*script attached in repository*)
 * **Visualization:** [Tableau Public](https://public.tableau.com/app/profile/andr.s6476/viz/Airbnb_Data_Visualization/NYCDashboard)
 
 <p align="center">
