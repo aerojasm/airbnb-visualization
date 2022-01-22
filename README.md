@@ -1,4 +1,6 @@
 # NYC's Airbnb Listings (Data Visualization Project)
+By Andrés Rojas   
+January, 2022
 
 * **Data Source:** [Airbnb Inside](http://insideairbnb.com/)
 * **Exploration & Cleaning:** Python / Jupyter Notebook
